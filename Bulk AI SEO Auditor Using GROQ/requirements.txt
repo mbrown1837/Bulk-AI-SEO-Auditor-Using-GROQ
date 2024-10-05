@@ -1,6 +1,0 @@
-streamlit
-beautifulsoup4
-requests
-SimplerLLM
-python-dotenv
-urllib3
