@@ -4,3 +4,4 @@ requests
 SimplerLLM
 python-dotenv
 urllib3
+groq
